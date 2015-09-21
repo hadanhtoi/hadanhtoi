@@ -1,0 +1,2 @@
+class HadanhtoiController < ApplicationController
+end

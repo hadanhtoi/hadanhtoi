@@ -1,0 +1,2 @@
+module HadanhtoiHelper
+end
